@@ -15,7 +15,7 @@
       "@modules/*": ["modules/*"],
       "@lib/*": ["lib/*"],
       "@routes/*": ["routes/*"],
-      "@services/*": ["services/*"],
+      "../services/*": ["services/*"],
       "@root/*": ["./*"]
     }
   },
