@@ -6,10 +6,8 @@ import mongoose, { model } from "mongoose";
 export const app: Application = express();
 import dotenv from "dotenv";
 import bodyParser from "body-parser";
-import { User } from "../models/userModel";
-import Strategy from "passport-discord";
 import passport from "passport";
-import session from "express-session";
+
 /**
  * API Server class
  *
