@@ -16,6 +16,12 @@
   </p>
 <br />
 
+
+### ⚡ Endpoints
+| Endpoint | Description |
+| ------ | ------------------ |
+| / | Returns version and list of endpoints |
+
 ### 📦 Installing dependencies and running server
 ```sh
 $ npm install
